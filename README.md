@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-##需要导入 api-server/db/mallmanager.sql
+##api-server/db/mallmanager.sql
 
 ``` bash
 # install dependencies
